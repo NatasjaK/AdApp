@@ -46,9 +46,5 @@ Projektet använder en SQL Server-databas med följande tabeller:
 - Databas: **SQL Server**  
 - Data Access: **ADO.NET (SqlClient)**  
 
----
 
-## 🚀 Framtida förbättringar  
-- Hashade lösenord för bättre säkerhet  
-- Mer avancerad UI-design  
-- Möjlighet att ladda upp bilder till annonser  
+ 
